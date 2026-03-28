@@ -1,0 +1,263 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "name": "Nashik Dhol",
+      "slug": "nashik-dhol",
+      "description": "Traditional Nashik Dhol players with authentic beats and energetic performances",
+      "longDescription": "Our Nashik Dhol team brings the authentic traditional beats to your wedding and celebration events.",
+      "image": "/uploads/1773593280215-899348828-Gemini_Generated_Image_igqu7gigqu7gigqu.png",
+      "icon": "🥁",
+      "price": "₹15,000 onwards",
+      "priceRange": "₹15,000 - ₹50,000",
+      "location": "Nashik & All India",
+      "features": [
+        "Authentic Nashik Dhol beats",
+        "2-4 Professional Dhol Players",
+        "Traditional Attire",
+        "Wedding Procession"
+      ],
+      "packages": [
+        {
+          "name": "Basic Package",
+          "price": "₹15,000",
+          "items": [
+            "2 Dhol Players",
+            "2 Hours Service"
+          ]
+        },
+        {
+          "name": "Standard Package",
+          "price": "₹25,000",
+          "items": [
+            "4 Dhol Players",
+            "4 Hours Service"
+          ]
+        },
+        {
+          "name": "Premium Package",
+          "price": "₹40,000",
+          "items": [
+            "6 Dhol Players",
+            "Full Day Service"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Pune Dhol",
+      "slug": "pune-dhol",
+      "description": "Famous Pune Dhol Tasha for weddings, processions and celebration events",
+      "longDescription": "Experience the famous Pune Dhol Tasha tradition at your events!",
+      "image": "/uploads/1773593908431-335695548-Gemini_Generated_Image_29d3x729d3x729d3.png",
+      "icon": "🎺",
+      "price": "₹12,000 onwards",
+      "priceRange": "₹12,000 - ₹45,000",
+      "location": "Pune & All India",
+      "features": [
+        "Authentic Pune Dhol Tasha",
+        "Traditional Tasha Players",
+        "Wedding Procession"
+      ],
+      "packages": [
+        {
+          "name": "Basic Package",
+          "price": "₹12,000",
+          "items": [
+            "2 Dhol Players",
+            "2 Tasha Players"
+          ]
+        },
+        {
+          "name": "Standard Package",
+          "price": "₹22,000",
+          "items": [
+            "4 Dhol Players",
+            "4 Tasha Players"
+          ]
+        },
+        {
+          "name": "Premium Package",
+          "price": "₹35,000",
+          "items": [
+            "6 Dhol Players",
+            "6 Tasha Players"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Brass Band",
+      "slug": "brass-band",
+      "description": "Royal brass band for wedding processions, government events and ceremonies",
+      "longDescription": "Add a royal touch to your wedding with our professional Brass Band!",
+      "image": "/uploads/1773594079557-669735307-Gemini_Generated_Image_bkoczcbkoczcbkoc.png",
+      "icon": "🎺",
+      "price": "₹18,000 onwards",
+      "priceRange": "₹18,000 - ₹60,000",
+      "location": "All India",
+      "features": [
+        "Full Brass Band (8-12 Players)",
+        "Trumpets & Saxophones",
+        "Wedding Procession"
+      ],
+      "packages": [
+        {
+          "name": "Basic Package",
+          "price": "₹18,000",
+          "items": [
+            "8 Band Players",
+            "2 Hours Service"
+          ]
+        },
+        {
+          "name": "Standard Package",
+          "price": "₹30,000",
+          "items": [
+            "10 Band Players",
+            "4 Hours Service"
+          ]
+        },
+        {
+          "name": "Premium Package",
+          "price": "₹50,000",
+          "items": [
+            "12 Band Players",
+            "Full Day Service"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "DJ Set",
+      "slug": "dj-set",
+      "description": "Professional DJs for sangeet, reception, birthday parties and corporate events",
+      "longDescription": "Get the party started with our professional DJ services!",
+      "image": "/uploads/1773593316579-296127406-DJ.png",
+      "icon": "🎧",
+      "price": "₹10,000 onwards",
+      "priceRange": "₹10,000 - ₹35,000",
+      "location": "All India",
+      "features": [
+        "Professional DJ",
+        "High-End Sound System",
+        "LED Lights & Laser Show"
+      ],
+      "packages": [
+        {
+          "name": "Basic Package",
+          "price": "₹10,000",
+          "items": [
+            "DJ for 3 Hours",
+            "Basic Sound System"
+          ]
+        },
+        {
+          "name": "Standard Package",
+          "price": "₹18,000",
+          "items": [
+            "DJ for 5 Hours",
+            "Pro Sound System"
+          ]
+        },
+        {
+          "name": "Premium Package",
+          "price": "₹30,000",
+          "items": [
+            "DJ Full Night",
+            "Laser Show"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Flowers Decoration",
+      "slug": "flowers",
+      "description": "Beautiful flower decorations for wedding stage, car, mandap and venue",
+      "longDescription": "Transform your venue into a floral paradise with our professional flower decoration services!",
+      "image": "https://images.unsplash.com/photo-1522748906645-95d8adfd52c7?w=800&q=80",
+      "icon": "💐",
+      "price": "₹20,000 onwards",
+      "priceRange": "₹20,000 - ₹1,50,000",
+      "location": "All India",
+      "features": [
+        "Wedding Stage Decoration",
+        "Mandap Decoration",
+        "Car Decoration"
+      ],
+      "packages": [
+        {
+          "name": "Basic Package",
+          "price": "₹20,000",
+          "items": [
+            "Stage Decoration",
+            "2 Side Pillars"
+          ]
+        },
+        {
+          "name": "Standard Package",
+          "price": "₹45,000",
+          "items": [
+            "Stage + Backdrop",
+            "Mandap Decoration"
+          ]
+        },
+        {
+          "name": "Premium Package",
+          "price": "₹80,000",
+          "items": [
+            "Full Venue Decoration",
+            "Gate + Aisle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Sound System",
+      "slug": "sound-system",
+      "description": "High-quality sound system, speakers, microphones for all event types",
+      "longDescription": "Ensure crystal clear sound at your event with our professional sound system rental services!",
+      "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&q=80",
+      "icon": "🔊",
+      "price": "₹8,000 onwards",
+      "priceRange": "₹8,000 - ₹25,000",
+      "location": "All India",
+      "features": [
+        "High-Quality Speakers",
+        "Wireless Microphones",
+        "Mixing Console"
+      ],
+      "packages": [
+        {
+          "name": "Basic Package",
+          "price": "₹8,000",
+          "items": [
+            "2 Speakers",
+            "1 Wireless Mic"
+          ]
+        },
+        {
+          "name": "Standard Package",
+          "price": "₹15,000",
+          "items": [
+            "4 Speakers",
+            "2 Wireless Mics"
+          ]
+        },
+        {
+          "name": "Premium Package",
+          "price": "₹22,000",
+          "items": [
+            "Full PA System",
+            "Sound Engineer"
+          ]
+        }
+      ]
+    }
+  ]
+}
